@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./img/law_ass.jpg" width=300px/>
+  <img src="./img/law_cat.jpg" width=300px/>
 </p>
 
 # LawGPT-P_zh：中文法律大模型（狴犴）
