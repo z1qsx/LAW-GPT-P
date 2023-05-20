@@ -90,7 +90,7 @@ LawGPT计划收集法律领域的教科书，经典案例等数据，自建一�
 
 
 ## 模型输出样例
-更多我们模型的测试结果详见`./data/test_result.json`以及`./data/test_result_with_retriver.json`
+更多测试结果详见`./data/test_result.json`以及`./data/test_result_with_retriver.json`
 <!DOCTYPE html>
 <html>
 <head>
