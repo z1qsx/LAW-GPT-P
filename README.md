@@ -13,7 +13,7 @@
 ## LawGPT-P_zh 快速开始
 Demo show
 <p align="center">
-  <img src="./img/demo_law.png" width=600px/>
+  <img src="./img/demo_law1.png" width=600px/>
 </p>
 
 ## LawGPT 快速开始
