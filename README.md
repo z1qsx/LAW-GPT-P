@@ -14,7 +14,7 @@
 Demo show
 coming soon...
 <p align="center">
-  <img src="./img/demo_law.png" width=300px/>
+  <img src="./img/demo_law.png" width=600px/>
 </p>
 ## LawGPT 快速开始
 
