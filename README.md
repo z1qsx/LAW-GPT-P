@@ -19,12 +19,17 @@ Demo show
   <img src="./img/law_demo2.png" width=1000px/>
 </p>
 
+**[23/05/19]** 
+点击下方：
+云猫法律大模型试用(https://77b7ca98b95d949f80.gradio.live/)
+
 
 **[23/05/19]** 你也可以直接运行支持加载 P-Tuning v2 checkpoint 的 [web demo](./web_demo.py)
 ```shell
 bash web_demo.sh
 ```
-
+**[23/05/19]** P-Tuning v2 checkpoint
+Coming soon...
 ## LawGPT 快速开始
 
 1. 配置项目依赖环境
